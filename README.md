@@ -4,3 +4,5 @@ One of The Odin Project Foundation path assignments (full description can be fou
 
 HTML and CSS with some flexbox.
 Color palette generated from: coolors.co
+
+Preview: https://kaelwi.github.io/odin-landing-page/
