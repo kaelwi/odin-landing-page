@@ -32,12 +32,8 @@ ul {
   color: #F5DFBB; 
 }
 
-h2 {
+h2, p {
   color: #562C2C;; 
-}
-
-p {
-  color: #562C2C;
 }
 
 .card-img {
